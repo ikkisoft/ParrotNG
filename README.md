@@ -17,6 +17,7 @@ Download the latest release from [HERE](https://github.com/ikkisoft/ParrotNG/rel
 ```
 $ java -jar parrotng_v0.2.jar <SWF File | Directory>
 ```
+The tool accepts a single SWF file or an entire directory.
 
 ![ParrotNG CmdLine](http://i.imgur.com/1JT4CtH.png "ParrotNGCmdLine")
 
